@@ -13,8 +13,11 @@
             "bottom",
             "left",
 
+            "box-sizing",
             "display",
             "visibility",
+            "clip",
+            "zoom",
 
             "flex",
             "order",
@@ -35,6 +38,11 @@
             "outline",
             "box-shadow",
 
+            "table",
+            "empty-cells",
+            "caption-side",
+            "border-spacing",
+            "border-collapse",
             "list",
 
             "font",
