@@ -62,6 +62,7 @@
             "pointer-events"
         ],
         "declaration-no-important": true,
+        "function-name-case": ["lower", {ignoreFunctions: "DXImageTransform.Microsoft.gradient"}],
         "indentation": 4,
         "max-line-length": 100,
         "max-nesting-depth": 3,
