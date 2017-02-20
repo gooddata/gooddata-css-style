@@ -1,9 +1,21 @@
 {
     "extends": "stylelint-config-standard",
+    "plugins": [
+        "stylelint-order"
+    ],
     "rules": {
-        "block-no-single-line": true,
+        "block-closing-brace-newline-before": "always",
+        "block-opening-brace-newline-after": "always",
         "declaration-block-no-duplicate-properties": true,
-        "declaration-block-properties-order": [
+        "declaration-no-important": true,
+        "function-url-quotes": "always",
+        "indentation": 4,
+        "max-line-length": 100,
+        "max-nesting-depth": 3,
+        "no-duplicate-selectors": true,
+        "no-extra-semicolons": true,
+        "no-unknown-animations": true,
+        "order/declaration-block-properties-specified-order": [
             "content",
 
             "position",
@@ -61,18 +73,8 @@
             "user-select",
             "pointer-events"
         ],
-        "declaration-no-important": true,
-        "function-name-case": ["lower", {ignoreFunctions: "DXImageTransform.Microsoft.gradient"}],
-        "indentation": 4,
-        "max-line-length": 100,
-        "max-nesting-depth": 3,
-        "no-duplicate-selectors": true,
-        "no-extra-semicolons": true,
-        "no-unknown-animations": true,
-        "selector-no-empty": true,
         "selector-no-id": true,
         "string-quotes": "single",
-        "stylelint-disable-reason": "always-before",
         "value-keyword-case": "lower",
         "value-no-vendor-prefix": true
     }
