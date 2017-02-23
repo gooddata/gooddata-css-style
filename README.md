@@ -2,7 +2,7 @@
 
 Install
 
-`npm install --save-dev gooddata/gdc-css-style`
+`yarn install --save-dev gooddata/gdc-css-style`
 
 .stylelintrc
 ```
