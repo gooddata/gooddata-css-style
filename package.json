@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/gooddata/gdc-css-style.git"
   },
-  "author": "martin.cermak@gooddata.com",
+  "author": "nikola.cech@gooddata.com",
   "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
     "url": "https://github.com/gooddata/gdc-css-style/issues"
@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "stylelint-checkstyle-formatter": "0.1.0",
-    "stylelint-config-standard": "16.0.0",
-    "stylelint-order": "0.3.0"
+    "stylelint-config-standard": "17.0.0",
+    "stylelint-order": "0.6.0"
   },
   "devDependencies": {
     "grunt": "1.0.1",
