@@ -2,7 +2,7 @@
 
 Install
 
-`yarn install --save-dev gooddata/gdc-css-style`
+`yarn install --save-dev stylelint-config-gooddata`
 
 .stylelintrc
 ```
