@@ -5,4 +5,4 @@ node_js:
 before_script:
   - yarn install --pure-lockfile
   - yarn check --integrity
-script: npm test
+script: yarn test
