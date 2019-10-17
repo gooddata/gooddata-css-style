@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/gooddata/gdc-css-style/issues"
   },
+  "files": [
+    ".stylelintrc"
+  ],
   "homepage": "https://github.com/gooddata/gdc-css-style",
   "engines": {
     "node": ">= 4"
