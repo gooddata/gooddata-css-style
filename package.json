@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-gooddata",
+  "name": "@gooddata/stylelint-config",
   "version": "3.0.1",
   "description": "GoodData CSS Style Guide",
   "main": ".stylelintrc",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/gooddata/gdc-css-style.git"
   },
-  "author": "Nikola Cech <nikola.cech@gooddata.com>",
+  "author": "GoodData Corporation",
   "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
     "url": "https://github.com/gooddata/gdc-css-style/issues"
