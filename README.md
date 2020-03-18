@@ -3,7 +3,7 @@
 ## Usage
 Add and install the library as development dependency:
 ```
-    yarn install --save-dev @gooddata/stylelint-config
+yarn install --save-dev @gooddata/stylelint-config
 ```
 Modify your `.stylelintrc` configuration file:
 ```
