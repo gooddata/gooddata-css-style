@@ -79,6 +79,8 @@
         "selector-max-id": 0,
         "string-quotes": "single",
         "value-keyword-case": "lower",
-        "value-no-vendor-prefix": true
+        "value-no-vendor-prefix": true,
+        "no-descending-specificity": null,
+        "font-family-no-missing-generic-family-keyword": [true, {"ignoreFontFamilies": ["Indigo", "GoodIcons"]}]
     }
 }

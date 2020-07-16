@@ -23,11 +23,11 @@
     "node": ">= 4"
   },
   "dependencies": {
-    "stylelint": "8.4.0",
+    "stylelint": "^13.6.1",
     "stylelint-checkstyle-formatter": "0.1.2",
-    "stylelint-config-standard": "17.0.0",
-    "stylelint-order": "0.7.0",
-    "stylelint-scss": "2.5.0"
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0"
   },
   "devDependencies": {
     "jest": "^25.3.0"
