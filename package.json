@@ -16,7 +16,8 @@
     "url": "https://github.com/gooddata/gdc-css-style/issues"
   },
   "files": [
-    ".stylelintrc"
+    ".stylelintrc",
+    "NOTICE.txt"
   ],
   "homepage": "https://github.com/gooddata/gdc-css-style",
   "engines": {
