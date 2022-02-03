@@ -1,3 +1,0 @@
-Copyright © GoodData Corporation 2019-2022, All rights reserved
-
-No license granted.  Unauthorized copying, modification, distribution, or use of this file is strictly prohibited.
