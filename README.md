@@ -14,7 +14,7 @@ Modify your `.stylelintrc` configuration file:
 
 # Development
 
-Install [Node.js](http://nodejs.org) (node 12.16.1, npm v6.13.4) and [Yarn](https://classic.yarnpkg.com) 1.22.4.
+Install [Node.js](http://nodejs.org) and [Yarn](https://classic.yarnpkg.com).
 
 Install dependencies:
 ```
