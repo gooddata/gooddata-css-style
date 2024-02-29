@@ -17,7 +17,7 @@
   },
   "files": [
     ".stylelintrc",
-    "NOTICE.txt"
+    "NOTICE"
   ],
   "homepage": "https://github.com/gooddata/gdc-css-style",
   "engines": {
