@@ -23,9 +23,7 @@ yarn install --frozen-lockfile
 
 ## Library release
 
-Package publishing is done via Jenkins Job:
-
-[https://checklist.intgdc.com/job/client-libs/job/gooddata-css-style-release/](https://checklist.intgdc.com/job/client-libs/job/gooddata-css-style-release/)
+Note that this package is now published from a different repository (see `gdc-ui`).
 
 ## License
 Copyright © GoodData Corporation 2019-2022, All rights reserved
